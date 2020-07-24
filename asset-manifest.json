@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/trial/static/css/main.5f361e03.chunk.css",
-    "main.js": "/trial/static/js/main.8c68964c.chunk.js",
-    "main.js.map": "/trial/static/js/main.8c68964c.chunk.js.map",
-    "runtime-main.js": "/trial/static/js/runtime-main.64ac26fc.js",
-    "runtime-main.js.map": "/trial/static/js/runtime-main.64ac26fc.js.map",
-    "static/js/2.7110949a.chunk.js": "/trial/static/js/2.7110949a.chunk.js",
-    "static/js/2.7110949a.chunk.js.map": "/trial/static/js/2.7110949a.chunk.js.map",
-    "index.html": "/trial/index.html",
-    "precache-manifest.5b48fbff2a8e6a76b3899242d290ce85.js": "/trial/precache-manifest.5b48fbff2a8e6a76b3899242d290ce85.js",
-    "service-worker.js": "/trial/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/trial/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7110949a.chunk.js.LICENSE.txt": "/trial/static/js/2.7110949a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/trial/static/media/logo.5d5d9eef.svg"
+    "main.css": "/devki-nandan/static/css/main.9440ee75.chunk.css",
+    "main.js": "/devki-nandan/static/js/main.577d983b.chunk.js",
+    "main.js.map": "/devki-nandan/static/js/main.577d983b.chunk.js.map",
+    "runtime-main.js": "/devki-nandan/static/js/runtime-main.6fad8018.js",
+    "runtime-main.js.map": "/devki-nandan/static/js/runtime-main.6fad8018.js.map",
+    "static/js/2.68611b62.chunk.js": "/devki-nandan/static/js/2.68611b62.chunk.js",
+    "static/js/2.68611b62.chunk.js.map": "/devki-nandan/static/js/2.68611b62.chunk.js.map",
+    "index.html": "/devki-nandan/index.html",
+    "precache-manifest.3a181a6a563a1c3e49ba75b642bb7c48.js": "/devki-nandan/precache-manifest.3a181a6a563a1c3e49ba75b642bb7c48.js",
+    "service-worker.js": "/devki-nandan/service-worker.js",
+    "static/css/main.9440ee75.chunk.css.map": "/devki-nandan/static/css/main.9440ee75.chunk.css.map",
+    "static/js/2.68611b62.chunk.js.LICENSE.txt": "/devki-nandan/static/js/2.68611b62.chunk.js.LICENSE.txt",
+    "static/media/Elevation.jpg": "/devki-nandan/static/media/Elevation.7c00d7c8.jpg",
+    "static/media/Location.jpg": "/devki-nandan/static/media/Location.f67ab5ca.jpg",
+    "static/media/Logo-1.png": "/devki-nandan/static/media/Logo-1.74bc95f9.png",
+    "static/media/Parking.jpg": "/devki-nandan/static/media/Parking.57595d70.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.64ac26fc.js",
-    "static/js/2.7110949a.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.8c68964c.chunk.js"
+    "static/js/runtime-main.6fad8018.js",
+    "static/js/2.68611b62.chunk.js",
+    "static/css/main.9440ee75.chunk.css",
+    "static/js/main.577d983b.chunk.js"
   ]
 }
