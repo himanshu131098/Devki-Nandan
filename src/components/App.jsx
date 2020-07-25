@@ -7,6 +7,8 @@ import Contact from "./Contact";
 import Footer from "./Footer";
 import "../App.css";
 
+
+
 function App(){
   return (
     <div style={{backgroundColor:"#333333"}}>
